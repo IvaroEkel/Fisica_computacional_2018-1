@@ -11,6 +11,18 @@ El temario se abordará de la siguiente forma:
 Temario
 ---------------------------------
 
+1. Introducción 
+	* Introducción a git
+
+	* Introducción a Julia
+		* Representación de los números en la maquina.
+		
+2. Metodos básicos
+
+	* Metodo de Newton-Raphson
+		* Computo de la raíz cuadrada: analisis del error.
+		
+	* 
 
 
 Evaluación
