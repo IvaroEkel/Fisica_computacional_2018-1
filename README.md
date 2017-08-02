@@ -55,7 +55,7 @@ Evaluación
 Las tareas y los ejercicios en clase (si no los terminan se dejan de tarea) tendrán un valor propuesto del 70% mientras que el 30% estará destinado
 a un proyecto final, el cual será tentativamente individual, sin embargo se considerará formar equipos según convenga. Se dará mínimo mes y medio para el desarrollo del proyecto,
 es decir, deberán elegir con tiempo su proyecto, puede ser incluso a comienzos del semestre.
-<img align="right" src="images/calif.png" height="604" width="387">
+<img align="right" src="images/calif.png" height="387" width="604">
 
 El proyecto se presentará al final del semestre usando `jupyter-notebook` o `beamer` según prefiera el alumno. 
 
