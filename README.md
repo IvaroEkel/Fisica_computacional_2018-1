@@ -19,6 +19,8 @@ Martes y Jueves 8 de 7 - 10 am.
 
 Grupo 8385
 
+<img align="right" src="images/rossler.png" height="273" width="195">
+
 Temario
 ---------------------------------
 
