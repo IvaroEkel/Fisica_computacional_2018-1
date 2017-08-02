@@ -74,7 +74,7 @@ Tanto el profesor como el ayudante podemos brindar apoyo y bibliografía en tema
 
 * Algunos sistemas complejos.
 
-<img align="right" src="images/StandardMap.png">
+<img align="right" src="images/StandardMap.png" height="42" width="42">
 Si al alumno le interesa algún otro tema, quizá en relación con su tesis y del cual el profesor no tenga conocimiento, 
 puede abordar un proyecto afín proporcionando la bibliografía y un cronograma tentativo para el proyecto.
 
