@@ -8,6 +8,8 @@ Se incentivará el uso de `git` y `jupyter-notebook` y `Julia` como lenguaje de 
 
 El temario se abordará de la siguiente forma:
 
+<img align="right" src="images/rossler.png" height="273" width="195">
+
 Reunión
 ---------------------------------
 
@@ -18,8 +20,6 @@ Horario
 Martes y Jueves 8 de 7 - 10 am.
 
 Grupo 8385
-
-<img align="right" src="images/rossler.png" height="273" width="195">
 
 Temario
 ---------------------------------
