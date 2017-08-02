@@ -8,6 +8,17 @@ Se incentivará el uso de `git` y `jupyter-notebook` y `Julia` como lenguaje de 
 
 El temario se abordará de la siguiente forma:
 
+Reunión
+---------------------------------
+
+Martes 8 a las 8am.
+
+Horario
+---------------------------------
+Martes y Jueves 8 de 7 - 10 am.
+
+Grupo 8385
+
 Temario
 ---------------------------------
 
