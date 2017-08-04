@@ -19,6 +19,8 @@ Horario
 ---------------------------------
 Martes y Jueves 8 de 7 - 10 am.
 
+Laboratorio de Enseñanza en Cómputo en Física, sótano del edificio Tlahuizcalpan.
+
 Grupo 8385
 
 Temario
