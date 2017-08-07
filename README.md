@@ -5,7 +5,7 @@ En el curso abordaremos los conceptos dispuestos por el temario _link_ en un amb
 atención a la teoría del curso en orden de que la práctica sea lo más clara  posible.
 
 Se incentivará el uso de `git` y `jupyter-notebook` y `Julia` como lenguaje de programación. Caba señalar que la 
-introducción a Julia, así como otros aspectos del curso estan basados en el contenido del siguiente curso:
+introducción a Julia, así como otros aspectos del curso estan basados en el contenido de la siguiente clase:
 
 https://github.com/lbenet/2017-2_TSFisComputacional-1
 
