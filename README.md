@@ -22,7 +22,7 @@ Martes 8 a las 8am.
 
 Horario
 ---------------------------------
-Martes y Jueves 8 de 7 - 10 am.
+Martes y Jueves 8 de 8 - 10 am (se acordo comenzar a las 8 en lugar de a las 7).
 
 Laboratorio de Enseñanza en Cómputo en Física, sótano del edificio Tlahuizcalpan.
 
