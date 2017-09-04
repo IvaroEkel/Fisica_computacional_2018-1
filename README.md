@@ -101,11 +101,16 @@ puede abordar un proyecto afín proporcionando la bibliografía y un cronograma 
 
 ### Proyectos propuestos:
 
+* Programación dirigida a objetos
+	* Implementación del álgebra de intervalos en `julia` y su uso en busqueda de raíces.
+	* Implementación de diferenciación automática y mostrar su uso en la solución de ecuaciones diferenciales ordinarias-
+
 * Caos clásico
 	* Análisis general de las propiedades del rotor pateado.
 	* Cálculo de algunas cantidades básicas del mapeo logístico.
 	* Programar herramientas básicas para el análisis espectral del espectro de sistemas cuánticos complejos.
 	* Análisis general del mapeo del círculo.
+	* Útilizar caos para cifrar mensajes.
 
 * Sistemas complejos
 	* Programación y estudio de autómatas celulares.
